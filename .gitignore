@@ -1,3 +1,4 @@
 configure.txt
 *.exe
 build
+build/
