@@ -3,3 +3,4 @@ bigg/
 bigg
 *.exe
 bigg*
+**/configure/local.py
